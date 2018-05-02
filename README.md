@@ -1,2 +1,1 @@
-# CS126
-Data Structures
+# Data Stuctures
